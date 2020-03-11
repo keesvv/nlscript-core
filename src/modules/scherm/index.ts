@@ -1,5 +1,5 @@
-import InstructionDefinition from '../../InstructionDefinition';
-import Module from '../../Module';
+import InstructionDefinition from '~@/InstructionDefinition';
+import Module from '~@/Module';
 
 import toon from './toon.handler';
 import wis from './wis.handler';

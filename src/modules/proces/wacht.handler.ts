@@ -1,4 +1,4 @@
-import Instruction from '../../Instruction';
+import Instruction from '~@/Instruction';
 
 export default async (i: Instruction) => {
   await new Promise((resolve, _reject) => {
